@@ -38,3 +38,8 @@ $wgHooks['BeforePageDisplay'][] = 'wbwUploadWizardResourcesLoader';
 ## Note
 
 The UploadWizard extension needs to be installed and configured to require additional licenses which in turn require the system messages and the icon file provided with this code.
+
+## TODO
+
+- Turn this into an actual extension to declutter "LocalSettings.php".
+- Translate system messages into English.
