@@ -1,0 +1,5 @@
+/* Provide Creative Commons Noncommercial icon */
+.mwe-upwiz-cc-nc-icon {
+        /* @embed */
+        background: url( Cc-nc-18px.svg.png ) no-repeat center center;
+}
